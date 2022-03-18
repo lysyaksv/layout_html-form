@@ -8,15 +8,11 @@
 }
 
 label {
-  padding: 5px 0;
-}
-
-label:first-child {
-  padding-top: 0;
+  margin-bottom: 10px;
 }
 
 label:last-child {
-  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 .color {
